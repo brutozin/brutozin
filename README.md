@@ -125,6 +125,7 @@ Self-taught frontend developer passionate about building modern, responsive webs
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=brutozin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
 
 ## 🗺️ Learning Roadmap
@@ -153,6 +154,7 @@ Self-taught frontend developer passionate about building modern, responsive webs
 <h4>🎮 Contribution Snake Graph Roadmap</h4>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Roadmap" width="100%" />
 </div>
+
 ---
 
 ## ✨ Extras

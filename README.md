@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0284c7&height=220&section=header&text=Arjun%20(Bruto)%20⚡&fontSize=52&animation=twinkling&fontColor=ffffff&desc=Self-Taught%20Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
   <br /><br />
-
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Building+Modern+Websites;Self-Taught+Frontend+Developer;Learning+JavaScript+%26+PHP;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </a>
@@ -151,8 +150,8 @@ Self-taught frontend developer passionate about building modern, responsive webs
   <b>Cybersecurity & Web Exploitation Basics</b>
 </p>
 <br />
-<h4>🎮 Contribution Snake Graph Roadmap</h4>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Roadmap" width="100%" />
+<h3>🎮 Contribution Snake Graph Roadmap</h3>
+<img src="https://raw.githubusercontent.com/brutozin/brutozin/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
